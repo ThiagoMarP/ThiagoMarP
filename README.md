@@ -1,4 +1,4 @@
-<h1> Hello there! </h1>
+<h1> Hello there! My name is Thiago and I'm a Software Developer </h1>
 
 I'm an aspiring front-end developer, every day trying harder to become a front-end developer. I am a committed, detail-oriented person, with great communication, strong teamwork and always looking for clarity and results. I enjoy UI design, best practices and modern technologies to build reliable webapps and webpages.
 
