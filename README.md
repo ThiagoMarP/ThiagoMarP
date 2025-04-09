@@ -12,9 +12,9 @@ Profissional de Tecnologia com experiência no desenvolvimento de sistemas e aut
 const skills = {
     linguagens: ['Java', 'Python', 'C++', 'JavaScript', 'SQL'],
     web: ['HTML', 'CSS', 'JavaScript'],
-    ferramentas: ['Git', 'Docker', 'Figma', 'Postman', 'Tortoise'],
+    ferramentas: ['Git', 'Docker', 'Postman', 'Tortoise'],
     bancosDados: ['Postgres', 'Oracle', 'SAP'],
-    outros: ['PgModeler', 'Corteza Low-Code', 'DevOps']
+    outros: ['PgModeler', 'DevOps']
 };
 ```
 
